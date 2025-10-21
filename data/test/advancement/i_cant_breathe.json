@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "barehand_punch": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:enderman"
+        },
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:air"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "test:magmatrap/cant"
+  }
+}

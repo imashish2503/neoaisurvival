@@ -1,0 +1,1 @@
+execute as @a[tag=!joined] run function test:world/give_rewards

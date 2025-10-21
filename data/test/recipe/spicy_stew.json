@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:magma_block"],
+    ["minecraft:magma_cream"],
+    ["minecraft:fire_charge"],
+    ["minecraft:blaze_powder"],
+    ["minecraft:bowl"]
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Spicy Stew",
+      "minecraft:lore": [
+        "Burns more on the way out..."
+      ]
+    }
+  }
+}

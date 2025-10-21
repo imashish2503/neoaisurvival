@@ -1,0 +1,19 @@
+# Elite tier advancement checks
+execute if entity @s[advancements={minecraft:nether/uneasy_alliance=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:nether/netherite_armor=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:nether/summon_wither=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:nether/all_effects=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:end/kill_dragon=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/adventuring_time=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/bullseye=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/hero_of_the_village=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/kill_all_mobs=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/trim_with_all_exclusive_armor_patterns=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/two_birds_one_arrow=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:adventure/who_needs_rockets=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/balanced_diet=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/bred_all_animals=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/complete_catalogue=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/obtain_netherite_hoe=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/obtain_sniffer_egg=true}] run scoreboard players add @s neoProgressCalc 1
+execute if entity @s[advancements={minecraft:husbandry/whole_pack=true}] run scoreboard players add @s neoProgressCalc 1

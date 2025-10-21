@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:glow_berries"],
+    ["minecraft:sweet_berries"],
+    ["minecraft:melon_slice"],
+    ["minecraft:apple"],
+    ["minecraft:bowl"]
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Froup",
+      "minecraft:lore": [
+        "ORANGE you glad it's soup?"
+      ]
+    }
+  }
+}

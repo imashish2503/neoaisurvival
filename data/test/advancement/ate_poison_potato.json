@@ -1,0 +1,16 @@
+
+{
+"criteria" : {
+    "eat_food" : {
+        "trigger" : "minecraft:consume_item",
+        "conditions" : {
+            "item" : {
+               "items" : "poisonous_potato"
+            }
+        }
+    }
+},
+"rewards" : {
+    "function" : "test:potato/ate_poison_potato"
+}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:bone"],
+    ["minecraft:spider_eye"],
+    ["minecraft:rotten_flesh"],
+    ["minecraft:gunpowder"],
+    ["minecraft:ender_pearl"],
+    ["minecraft:bowl"]
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Monsterous Brew",
+      "minecraft:lore": [
+        "We scare, because we care!"
+      ]
+    }
+  }
+}

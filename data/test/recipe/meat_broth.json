@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:beef"],
+    ["minecraft:chicken"],
+    ["minecraft:rabbit"],
+    ["minecraft:mutton"],
+    ["minecraft:porkchop"],
+    ["minecraft:bowl"]
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Meat Broth",
+      "minecraft:lore": [
+        "Petting zoo? More like yummy stew!"
+      ]
+    }
+  }
+}

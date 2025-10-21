@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    ["minecraft:clock"],
+    ["minecraft:bowl"]
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stew",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Soup of the day",
+      "minecraft:lore": [
+        "eating this will be very time consuming"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DLD",
+    "LGL",
+    "DLD"
+  ],
+  "key": {
+    "D": [
+      "minecraft:diamond"
+    ],
+    "L": [
+      "minecraft:lightning_rod"
+    ],
+    "G": [
+      "minecraft:golden_apple"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_apple",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "Zapple",
+      "minecraft:lore": [
+        "It hums quietly in your hand"
+      ]
+    }
+  },
+  "show_notification": true
+}

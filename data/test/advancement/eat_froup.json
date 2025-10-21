@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "eat_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:mushroom_stew"],
+          "components": {
+            "minecraft:item_name": {
+              "text": "Froup"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "test:soup/froup"
+  }
+}
